@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition - Labor Clock'
+define service ZSD_LABOR_CLOCK {
+  expose ZI_LABOR_CLOCK as LaborClocking;
+}
